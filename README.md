@@ -3,7 +3,7 @@ sEMG watch for HMI via 8-channel sEMG signals.
 
 ## Demo Videos
 Realtime inference demo
-https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.mp4
+![inference](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Image/realtime_inference_demo.png)
 
 Realtime sEMG signal acqusition
 https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_sEMG_acqusition.mp4
