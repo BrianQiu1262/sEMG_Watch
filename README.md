@@ -16,17 +16,22 @@ sEMG watch for HMI via 8-channel sEMG signals.
 
 ## Embeded Software
 - [STM32 code](https://github.com/BrianQiu1262/sEMG_Watch_STM32)
+
 STM32 code for sEMG acquisition, data preprocessing, and data transmission.
 
 - [NRF_TX code](https://github.com/BrianQiu1262/sEMG_Watch_Wireless_TX)
+
 Wireless data transfer TX in sEMG watch.
 
 - [NRF_RX code](https://github.com/BrianQiu1262/sEMG_Watch_Wireless_RX)
+
 Wireless data transfer RX in USB receiver.
 
 ## Upper Monitor
 - [C# code](https://github.com/BrianQiu1262/sEMG_Watch_CSharp_Demo)
+
 C# demo for UI
 
 - [Python code](https://github.com/BrianQiu1262/sEMG_Watch_Python_Demo)
+
 Python demo including data preprocessing, model training, and realtime model inference.
