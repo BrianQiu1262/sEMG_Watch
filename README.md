@@ -13,3 +13,11 @@ sEMG watch for HMI via 8-channel sEMG signals.
 - Realtime oled signal curve plotting ([Video download](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_oled_plot.mp4))
 
 ![oled](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Image/realtime_oled_plot.png)
+
+## Embeded Software
+- [STM32 code](https://github.com/BrianQiu1262/sEMG_Watch_STM32)
+
+- [NRF_TX code](https://github.com/BrianQiu1262/sEMG_Watch_Wireless_TX)
+
+- [NRF_RX code](https://github.com/BrianQiu1262/sEMG_Watch_Wireless_RX)
+  
