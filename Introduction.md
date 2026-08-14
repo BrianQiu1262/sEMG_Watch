@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_PCB.png?raw=true" alt="1" / width="400"></td>
+    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_PCB.png?raw=true" alt="1" / width="800"></td>
     <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_3D.png?raw=true" alt="2" / ></td>
   </tr>
 </table>
