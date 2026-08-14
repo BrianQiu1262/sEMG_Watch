@@ -14,7 +14,7 @@
 
 - 实时手势识别演示视频 ([完整视频下载](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.mp4))
 
- <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.gif" width="960" height="540"  /> 
+ <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.gif" width="860" height="540"  /> 
 
 - 实时表面肌电数据采集 ([完整视频下载](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_sEMG_acqusition.mp4))
 
