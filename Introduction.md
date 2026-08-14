@@ -1,4 +1,4 @@
- <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/cover.jpg?raw=true" width="700"  /> 
+ <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/cover.png?raw=true" width="700"  /> 
 
 ## 项目简介
 传统的智能手表大多依赖IMU（加速度计+陀螺仪）进行识别手势，无法捕捉手指的精细动作，且受手臂摆动干扰较大。本项目旨在开发一款基于表面肌电信号的智能手表，通过采集前臂肌肉群产生的生物电信号，实现高精度、低延迟的手势识别，进而配置到电脑的交互映射，为用户提供一种全新的、无接触的交互方式。
