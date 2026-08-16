@@ -104,11 +104,11 @@
 2. 中间一行为RLD右腿驱动电极，所有的电极都连通等电位；
 3. 佩戴的时候绕腕部一周，通过胶布和皮筋进行固定。
 
-![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true)
+<img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
 
 ### 3D打印外壳
 
-![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/shell.png?raw=true)
+<img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/shell.png?raw=true" width="700"  /> 
 外壳上下壳通过三个螺栓进行装配固定，外壳和肌电电极通过纳米胶进行固定。
 
 ### NRF接收器
