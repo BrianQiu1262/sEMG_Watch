@@ -106,6 +106,11 @@
 
 ![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true)
 
+### 3D打印外壳
+
+![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/shell.png?raw=true)
+外壳上下壳通过三个螺栓进行装配固定，外壳和肌电电极通过纳米胶进行固定。
+
 ### NRF接收器
 
 ![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_SCH.png?raw=true)
