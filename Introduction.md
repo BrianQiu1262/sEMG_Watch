@@ -123,11 +123,9 @@
 
 5. 佩戴的时候绕腕部一周，通过魔术贴进行固定。
 
-
-
 ### 3D打印外壳
 
-外壳上下壳通过三个螺栓进行装配固定，外壳和魔术贴通过纳米胶进行固定。
+外壳上下壳通过三个螺栓进行装配固定，外壳和电极阵列通过纳米胶进行固定。
 <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/shell.png?raw=true" width="600"  /> 
 
 ### NRF接收器
