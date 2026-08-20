@@ -109,6 +109,8 @@
 5. 电极整体采用FPC工艺制作，对每对电极处进行1mm厚度的FR4补强，在保证整体电极阵列可弯曲的同时，使得电极能够均匀受力稳定贴附在皮肤上；
 6. RLD右腿驱动电极的作用是去除共模信号干扰。
 
+
+
 * 电极阵列具体设计
 <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
 
