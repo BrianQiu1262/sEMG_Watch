@@ -100,15 +100,23 @@
 </table>
 
 ### FPC环形电极阵列
-1. 从左到右的上下两行依次为8对sEMG差分电极，上下为一对；
-2. 中间一行为RLD右腿驱动电极，所有的电极都连通等电位；
-3. 佩戴的时候绕腕部一周，通过胶布和皮筋进行固定。
 
 <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
 
+1. 从左到右的上下两行依次为8对sEMG差分电极，上下为一对；
+2. 同一通道上下电极间距为20mm（这一间距固定不变）, 相邻通道电极间距也为20mm（这一距离涉及到整个腕带的长度，可根据不同人的手腕粗细适当更改，最终的目标是使得电极呈环状均匀分布在手腕周围）
+3. 中间一行为RLD右腿驱动电极，所有的电极都连通等电位；
+4. 电极阵列的每一对，通过魔术贴进行连接，如图所示；
+
+<img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
+
+5. 佩戴的时候绕腕部一周，通过魔术贴进行固定。
+
+
+
 ### 3D打印外壳
 
-外壳上下壳通过三个螺栓进行装配固定，外壳和肌电电极通过纳米胶进行固定。
+外壳上下壳通过三个螺栓进行装配固定，外壳和魔术贴通过纳米胶进行固定。
 <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/shell.png?raw=true" width="600"  /> 
 
 ### NRF接收器
