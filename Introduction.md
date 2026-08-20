@@ -14,15 +14,15 @@
 
 - 实时手势识别演示视频 ([完整视频下载](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.mp4))
 
- <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.gif"/> 
+ <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_inference_demo.gif" width="700" /> 
 
 - 实时表面肌电数据采集 ([完整视频下载](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_sEMG_acqusition.mp4))
 
- <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_sEMG_acqusition.gif" /> 
+ <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_sEMG_acqusition.gif" width="700"  /> 
 
 - 实时OLED显示肌电激活 ([完整视频下载](https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_oled_plot.mp4))
 
- <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_oled_plot.gif"  /> 
+ <img src="https://github.com/BrianQiu1262/sEMG_Watch/raw/refs/heads/main/Video/realtime_oled_plot.gif" width="700"   /> 
 
 ## 项目系统框架
 
