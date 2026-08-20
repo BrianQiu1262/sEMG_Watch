@@ -101,6 +101,15 @@
 
 ### FPC环形电极阵列
 
+* 设计要求与规范
+1. 肌电电极对应该沿肌肉纤维的方向放置（对于手腕来说就是沿着手臂到手掌的方向）以采集有效肌电信号；
+2. 同一通道电极对的间距决定了采集信号的质量，大小需适中；
+3. 相邻通道电极间距由腕带周长（即佩戴者手腕粗细）决定，需使得8通道电极呈圆环均匀分布到手腕周围；
+4. 由于干电极相对湿电极接触阻抗较大，因此需要垂直于接触面的正压力以保证接触良好；
+5. 电极整体采用FPC工艺制作，对每对电极处进行1mm厚度的FR4补强，在保证整体电极阵列可弯曲的同时，使得电极能够均匀受力稳定贴附在皮肤上；
+6. RLD右腿驱动电极的作用是去除共模信号干扰。
+
+* 电极阵列具体设计
 <img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
 
 1. 从左到右的上下两行依次为8对sEMG差分电极，上下为一对；
@@ -108,7 +117,7 @@
 3. 中间一行为RLD右腿驱动电极，所有的电极都连通等电位；
 4. 电极阵列的每一对，通过魔术贴进行连接，如图所示；
 
-<img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/FPC.png?raw=true" width="700"  /> 
+<img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/band.png?raw=true" width="700"  /> 
 
 5. 佩戴的时候绕腕部一周，通过魔术贴进行固定。
 
