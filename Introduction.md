@@ -92,12 +92,7 @@
 3. 电池电压通过电阻分压接入STM32的ADC进行电池电量的换算；
 4. OLED显示屏左上角为回传的手势识别结果，右上角为电池电量（0-100）。
 
-<table>
-  <tr>
-    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/interface.jpg?raw=true" alt="1" /width="500"></td>
-    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/OLED.png?raw=true" alt="2" /></td>
-  </tr>
-</table>
+![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_.png)
 
 ### FPC环形电极阵列
 
