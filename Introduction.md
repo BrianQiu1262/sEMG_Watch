@@ -38,12 +38,7 @@
 * 采用NRF52832作为无线透传芯片，接收来自肌电手表的数据并将其发送给PC；
 * 通过串口转USB模块将数据通过USB-TYPE-A接口传到PC。
 
-<table>
-  <tr>
-    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_PCB.png?raw=true" alt="1" / width="800"></td>
-    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_3D.png?raw=true" alt="2" / ></td>
-  </tr>
-</table>
+![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_.png)
 
 ### PC-C#上位机
 * C#上位机通过串口接收无线透传数据，并实时进行8通道的sEMG绘图工作；
@@ -92,7 +87,12 @@
 3. 电池电压通过电阻分压接入STM32的ADC进行电池电量的换算；
 4. OLED显示屏左上角为回传的手势识别结果，右上角为电池电量（0-100）。
 
-![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/Receiver_.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/interface.png" alt="1" / width="500"></td>
+    <td><img src="https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/OLED.png" alt="2" / ></td>
+  </tr>
+</table>
 
 ### FPC环形电极阵列
 
