@@ -147,7 +147,8 @@
 - 识别模型使用了简单而计算速度快的线性分类器（训练时使用标准化与岭最小二乘）以便于实现实时低延迟的手势推理；
 - Python主要通过接收实时传过来的8通道sEMG信号，提取特征进行实时推理，返回的结果为手势的分类结果，具体HMI操作在C#上位机里。
 6. 上位机大致数据及控制流
-![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/1.png?raw=true)
+首先，C#上位机收集从肌电手表传输过来的8通道sEMG采集数据并进行可视化；然后C#上位机将原始数据通过TCP协议传输至Python代码；接着Python代码对sEMG原始数据进行特征计算，并利用模型进行手势识别实时推理；最后，C#通过TCP协议接收Python输出的手势结果，并进行相应的人机交互控制。
+![](https://github.com/BrianQiu1262/sEMG_Watch/blob/main/Image/data_&_control_flow.png?raw=true)
 
 ## 数采流程 （C#）
 1. 将NRF连接器插入电脑，并使用VS studio运行C#代码，按照NRF连接器插入的COM（设备管理器）进行填写；
